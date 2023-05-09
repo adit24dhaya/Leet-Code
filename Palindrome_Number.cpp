@@ -1,5 +1,5 @@
-class Solution {
 #include<bits/stdc++.h>
+class Solution {
 public:
     bool isPalindrome(int x) {
         if(x>=0)
